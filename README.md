@@ -101,3 +101,4 @@ python run_ZSSR.py X2_REAL_CONF
 ----------
 Example kernels were generated from the input images using:  
 [T. Michaeli  and   M. Irani, Nonparametric Blind Super-Resolution.   International Conference on Computer Vision (ICCV), October 2013.](http://www.wisdom.weizmann.ac.il/~vision/BlindSR.html)
+"# python-zssr" 
